@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/201804/Pawan_Kalyan_0.jpeg?qwXCcXkAgOECeaWrpWfxRd0ajgT2T6yv");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: blue;
+}
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    outline-color : red;
+
+}
+h2 {
+    text-align: center;
+    outline-style: solid;
+}
+h3 {
+    text-align: center;
+    background-color: chocolate;
+}
